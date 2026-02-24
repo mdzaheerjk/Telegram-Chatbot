@@ -1,3 +1,5 @@
+# Telegram chatbot 
+A Telegram chatbot powered by an LLM (like Gemini or GPT) that delivers conversational AI through a familiar chat interface. It maintains context by injecting the previous assistant response into each new prompt, enabling smooth, stateful conversations instead of disconnected, one-off replies.
 <h1 align="center">🚀 Generative AI Application</h1>
 
 <p align="center">
